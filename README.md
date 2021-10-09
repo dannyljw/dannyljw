@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jae-wook-danny-lee-492221167/)
 
 
-<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 <!---
 dannyljw/dannyljw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
