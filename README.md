@@ -20,7 +20,7 @@
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ios-3766AB?style=flat-square&logo=ios&logoColor=white"/>
+
 [![Jae Wook 's github stats](https://github-readme-stats.vercel.app/api?username=dannyljw)](https://github.com/dannyljw/github-readme-stats)
 
 <!---
