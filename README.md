@@ -21,7 +21,9 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
+<!---
 [![Jae Wook 's github stats](https://github-readme-stats.vercel.app/api?username=dannyljw)](https://github.com/dannyljw/github-readme-stats)
+--->
 
 <!---
 dannyljw/dannyljw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
