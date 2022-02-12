@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @dannyljw
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently doing internship at PwC Consulting projects with Kakao Corp (South Korea) about SAP ERP
+- 🌱 Fininished Internship at PwC Consulting projects with Kakao Corp (South Korea) - projects on SAP ERP
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email : danny95ljw@gmail.com
