@@ -34,6 +34,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![Jae Wook 's github stats](https://github-readme-stats.vercel.app/api?username=dannyljw)](https://github.com/dannyljw/github-readme-stats)
 --->
 
+![dannyljw stats](https://github-readme-stats.vercel.app/api?username=dannyljw&show_icons=true&theme=aura)
+
+
 <!---
 dannyljw/dannyljw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
