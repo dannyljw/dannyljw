@@ -35,7 +35,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 --->
 
 ![dannyljw stats](https://github-readme-stats.vercel.app/api?username=dannyljw&show_icons=true&theme=aura)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyljw&layout=compact)](https://github.com/dannyljw/github-readme-stats)
 
 <!---
 dannyljw/dannyljw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
