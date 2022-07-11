@@ -5,9 +5,9 @@
   </div>
 --->
 
-- 👋 Hi, I’m @dannyljw
+- 👋 Hi, I’m @dannyljw Masters Degree Candidate in UNIST(Ulsan National Institue of Science and Technology) - AIGS(Artificial Intelligence Graduate School)
 - 👀 I’m interested in Machine Learning
-- 🌱 Fininished Internship at PwC Consulting projects with Kakao Corp (South Korea) - projects on SAP ERP
+- 🌱 Freelance contractor with PwC Consulting, project on Digital Transformation and Machine Learning Project on  Credict Fraud detection, Sales prediction.
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email : danny95ljw@gmail.com
