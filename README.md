@@ -8,6 +8,7 @@
 - 👋 Hi, I’m @dannyljw Masters Degree Candidate in UNIST(Ulsan National Institue of Science and Technology) - AIGS(Artificial Intelligence Graduate School)
 - 👀 I’m interested in Machine Learning
 - 🌱 Freelance contractor with PwC Consulting, project on Digital Transformation and Machine Learning Project on  Credict Fraud detection, Sales prediction.
+- Never expected for me to code in C in my future life but i'm doing ahah
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email : danny95ljw@gmail.com
