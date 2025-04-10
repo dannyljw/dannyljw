@@ -5,7 +5,7 @@
   </div>
 --->
 
-- 👋 Hi, I’m @dannyljw Masters Degree Candidate in UNIST(Ulsan National Institue of Science and Technology) - AIGS(Artificial Intelligence Graduate School)
+- 👋 Hi, I’m @dannyljw Deloitte Consultant (Technology and Transformation - AID(Artifitial Intelligence and Data) | X-Masters Degree Candidate in UNIST(Ulsan National Institue of Science and Technology) - AIGS(Artificial Intelligence Graduate School)
 - 👀 I’m interested in Machine Learning
 - 🌱 Freelance contractor with PwC Consulting, project on Digital Transformation and Machine Learning Project on  Credict Fraud detection, Sales prediction.
 - Never expected for me to code in C in my future life but i'm doing ahah
